@@ -1,0 +1,19 @@
+.odd {
+  background-color: lightcoral;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif
+}
+
+#uno {
+  color: blue;
+  font-size: 36px;
+}
+
+#dos {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.odd.ity {
+font-size: 24px;
+}
